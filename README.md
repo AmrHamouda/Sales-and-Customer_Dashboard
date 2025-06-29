@@ -1,10 +1,10 @@
 📊 Sales Dashboard and Customer Dashboard
 
-![Alt text](path/to/image.png)
+![Alt text](https://github.com/AmrHamouda/Sales-and-Customer_Dashboard/blob/490218b4c169058c4b98505ad5da25c8f0c6344c/images/Sales.png)
 
-![Alt text](path/to/image.png)
+![Alt text](https://github.com/AmrHamouda/Sales-and-Customer_Dashboard/blob/490218b4c169058c4b98505ad5da25c8f0c6344c/images/Customer.png)
 
-![Alt text](path/to/image.png)
+![Alt text](https://github.com/AmrHamouda/Sales-and-Customer_Dashboard/blob/main/images/Sales%20%26%20filter.png)
 
 🎯 Dashboard Purpose
 
